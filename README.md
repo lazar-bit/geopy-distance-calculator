@@ -3,7 +3,7 @@ A simple Python tool to calculate geodesic distances from coordinates in Excel u
 
 # 🗺️ Geopy Distance Calculator
 
-This Python script calculates the **geodesic distance** (in kilometers) between a fixed reference point (default: **Kyiv city center**) and geographic coordinates stored in an Excel file. It's built using the `pandas` and `geopy` libraries and is useful for geospatial analysis, mapping, or OSINT workflows.
+This Python script calculates the **geodesic distance** (in kilometers) between a fixed reference point and geographic coordinates stored in an Excel file. It's built using the `pandas` and `geopy` libraries and is useful for geospatial analysis, mapping, or OSINT workflows.
 
 ---
 
